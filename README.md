@@ -30,8 +30,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 ## **Insights**
 - West region contributes **35% of total sales**  
 - Technology category drives the **highest profit**  
-- Discounts above 20% increase sales but **reduce profit margin**  
-- Top 5 products generate **~40% of total revenue**
+- Top 10 products generate **~40% of total revenue**
 
 ---
 
@@ -39,5 +38,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 Superstore_Sales_Project/
 
 Raw_Data.xlsx          # Original dataset
+
 Dashboard.xlsx         # Cleaned data, pivot tables, charts, and dashboard
+
 README.md              # Project documentation
