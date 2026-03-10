@@ -34,6 +34,12 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 
 ---
 
+## View Interactive Dashboard
+https://1drv.ms/x/c/592c17a92d952dc0/IQCuO4D1w9R4QKHoCHwtIpLeAc0o_5f2_JHl3io4-5rMWI0?e=jQdYIv
+
+
+---
+
 ## **Project Structure**
 Superstore_Sales_Project/
 
